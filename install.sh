@@ -18,3 +18,5 @@ StartupNotify=true
 Terminal=false
 Type=Application
 EOL
+
+wget https://raw.githubusercontent.com/SercraftGaming/nekoray_install/refs/heads/main/222222223.json -P /home/$USER/.local/share/nekoray/config/route_profiles/
