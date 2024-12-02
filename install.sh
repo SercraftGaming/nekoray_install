@@ -1,6 +1,6 @@
 cd /tmp
-wget https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.5/nekoray-4.2.5-2024-10-25-linux64.zip
-unzip nekoray-4.2.5-2024-10-25-linux64.zip
+wget https://github.com/Mahdi-zarei/nekoray/releases/download/4.2.6/nekoray-4.2.6-2024-11-27-linux64.zip
+unzip nekoray-4.2.6-2024-11-27-linux64.zip
 mv nekoray/ ~/.local/share/
 
 chmod +x ~/.local/share/nekoray/nekoray
